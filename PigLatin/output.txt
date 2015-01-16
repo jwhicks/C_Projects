@@ -1,0 +1,11 @@
+English Word		Simple Pig Latin		Advanced Pig Latin
+caT			aTcay					aTcay
+aPplE			aPplE					aPplEway
+bEar			Earbay					Earbay
+star			tarsay					arstay
+blAck			lAckbay					Ackblay
+blender			lenderbay				enderblay
+sTrOnG			TrOnGsay				OnGsTray
+heLlO			eLlOhay					eLlOhay
+
+End of program.
